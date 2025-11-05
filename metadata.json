@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Emergencia Senior",
+  "description": "Una aplicación simple para que las personas de la tercera edad puedan contactar rápidamente a sus números de emergencia con un solo botón, enviando alertas por SMS y guiando al usuario a través del proceso.",
+  "requestFramePermissions": []
+}
